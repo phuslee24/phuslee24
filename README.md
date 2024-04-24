@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Sai Gon
 * ✉️  You can contact me at [tranphu.thpthht@gmail.com](mailto:tranphu.thpthht@gmail.com)
 
-<img src="img.svg" width="1200" high="700" />
+<img src="image.svg" width="1200" high="700" />
 
 ### Skills
 
@@ -18,6 +18,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <p align="left"> <a href="https://www.github.com/phuslee24" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-
-========================================================================================================================================
 <div style="text-align: center; size:5">I can do it!!<div>
