@@ -81,7 +81,8 @@
 				<div class="greeting">
           Hi!<br/>Just show me the direction..., 
 					<br/>
-					I'll definitely find my way!!
+				<span style ="margin-left:10px"> I'll definitely find my way!!</span>
+					<span style ="margin-left:20px"> _phuslee_</span>
         </div>
         <div class="skills">
           <div class="skills_icon">
