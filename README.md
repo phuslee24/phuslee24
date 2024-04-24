@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Sai Gon
 * ✉️  You can contact me at [tranphu.thpthht@gmail.com](mailto:tranphu.thpthht@gmail.com)
 
+<img src="image.svg" width="1200" />
+
 ### Skills
 
 
