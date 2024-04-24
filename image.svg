@@ -74,16 +74,17 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
+	.textt{
+		margin-left:10px
+		}
 			</style>
 
 			<div class="container">
         <div class="earth"></div>
 				<div class="greeting">
           Hi!<br/>Just show me the direction..., 
-					<br/>
-				<span style ="margin-left:10px"> I'll definitely find my way!!</span>
-					<br>
-					<span style ="margin-left:20px"> _phuslee_</span>
+					<br/> 
+					<span class="textt">I'll definitely find my way!!</span?
         </div>
         <div class="skills">
           <div class="skills_icon">
