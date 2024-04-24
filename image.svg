@@ -74,8 +74,11 @@
         .skills_icon.nodejs>img {
           width: 74px;
         }
-	.textt{
-		margin-left:10px
+	.text1{
+		margin-left:30px
+		}
+				.text2{
+		margin-left:300px
 		}
 			</style>
 
@@ -84,7 +87,9 @@
 				<div class="greeting">
           Hi!<br/>Just show me the direction..., 
 					<br/> 
-					<span class="textt">I'll definitely find my way!!</span>
+					<span class="text1">I'll definitely find my way!!</span>
+					<br/> 
+					<span class="text2">_phuslee_</span>
         </div>
         <div class="skills">
           <div class="skills_icon">
